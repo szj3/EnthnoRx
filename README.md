@@ -1,6 +1,6 @@
 # EthnoRx
 
-[EthnoRx Patient App Design](https://www.figma.com/file/HJOAwKIwyuBGDd2kyAfvm3/EthnoRx-Patient-App?type=design&node-id=0%3A1&mode=design&t=556G2vHhoBPlymJ9-1)
+Wireframing: [EthnoRx Patient App Design](https://www.figma.com/file/HJOAwKIwyuBGDd2kyAfvm3/EthnoRx-Patient-App?type=design&node-id=0%3A1&mode=design&t=556G2vHhoBPlymJ9-1)
 
 A digital application that bridges western medicine to naturopathic medicine by launching a program to monitor patients with chronic conditions.. 
 
