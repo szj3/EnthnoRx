@@ -1,4 +1,7 @@
 # EthnoRx
+
+[EthnoRx Patient App Design](https://www.figma.com/file/HJOAwKIwyuBGDd2kyAfvm3/EthnoRx-Patient-App?type=design&node-id=0%3A1&mode=design&t=556G2vHhoBPlymJ9-1)
+
 A digital application that bridges western medicine to naturopathic medicine by launching a program to monitor patients with chronic conditions.. 
 
 The app is designed to cater to a specific cohort of patients diagnosed with critical diseases like COPD or high blood pressure who have disclosed their use of herbal medications to manage their symptoms. Its purpose is to closely monitor these patients, engaging with them to understand their herbal treatment regimen, dosage, symptom management, and optionally, to facilitate discussions with their doctors regarding alternative medication options. By offering doctors a comprehensive understanding of ethno-medications, the app empowers them to make informed decisions about their patients' treatments. Moreover, it encourages active participation from patients in managing their health choices, thereby promoting overall well-being. The overarching goal of the app is to prioritize education and understanding of medical options, fostering informed decision-making rather than imposing medical practices onto individuals.
